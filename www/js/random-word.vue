@@ -2,7 +2,7 @@
   <div class="app">      
     <h1>Random Word</h1>
     <button id="btn-get-random-word" @click="getRandomWord">Get Random Word</button>
-    <p>{{randomWord}}</p>
+    <p>{{ randomWord }}</p>
   </div>
 </template>
 
